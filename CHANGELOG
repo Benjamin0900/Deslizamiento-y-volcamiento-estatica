@@ -19,7 +19,7 @@ Resgistro de cambios y nuevas funcionalidades
 05/12/2021 : Se comenta el codigo y se agregan nuevos elementos en la parte de graficar.
 05/12/2021 : Se agrega una nueva serie correspondiente al h(altura de la fuerza) ingresado para indicar en el gráfico la fuerza necesaria para ese punto.
 
-21/12/2021 : Versión Final
+21/12/2021 : Versión 3.0
 21/12/2021 : Agregar interfaz para las distintas variables. 
 22/12/2021 : Se bosqueja una interfaz gráfica de manera visual en QT -> MainWindow.ui
 22/12/2021 : Se configuran los distintos items de la interfaz a partir de sus respectivas clases en MainWindow.cpp
