@@ -5,9 +5,9 @@
 
 ## Integrantes
 
-ESPINOZA PINO, BENJAMIN GASPAR gitlab.com/BenjaminEspinoza .  
-MAMANI PAUCAR, JUAN GABRIEL gitlab.com/nijoko.  
-RIVERA VERGARA, CAMILA FRANCISCA gitlab.com/Cami_727.  
+ESPINOZA, BENJAMIN gitlab.com/BenjaminEspinoza .  
+MAMANI, GABRIEL gitlab.com/nijoko.  
+RIVERA, CAMILA gitlab.com/Cami_727.  
 
 ## Introducción
 
