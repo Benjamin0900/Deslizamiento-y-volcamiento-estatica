@@ -9,6 +9,10 @@ ESPINOZA, BENJAMIN gitlab.com/BenjaminEspinoza .
 MAMANI, GABRIEL gitlab.com/nijoko.  
 RIVERA, CAMILA gitlab.com/Cami_727.  
 
+## Entorno de desarrollo
+
+El programa fue desarrollado sobre el lenguaje de programación de C++, se aplicaron conocimientos de Clases y Standard Template Library (STL) para facilitar la manipulación de datos. Para la interfaz gráfica, se uso la herramienta de Qt5 v5, su uso fue requerido para facilitar el trabajo de la estructuración del programa. 
+
 ## Introducción
 
 Este proyecto se hizo con la finalidad de responder a la necesidad de las personas que requieren calcular la fuerza necesaria para volcar o deslizar un bloque, es así como nosotros con nuestro programa logramos hacer el cálculo al instante. En las siguientes líneas se explicará en qué consiste el programa, que variables se utilizaron, los cálculos físicos realizados, el diagrama de componentes del código fuente y los requisitos de compilación.
