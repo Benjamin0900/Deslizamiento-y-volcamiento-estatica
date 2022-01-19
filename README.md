@@ -5,9 +5,9 @@
 
 ## Integrantes
 
-ESPINOZA PINO, BENJAMIN GASPAR (202030547-1).  
-MAMANI PAUCAR, JUAN GABRIEL (202004631-k).  
-RIVERA VERGARA, CAMILA FRANCISCA (202030508-0).  
+ESPINOZA PINO, BENJAMIN GASPAR gitlab.com/BenjaminEspinoza .  
+MAMANI PAUCAR, JUAN GABRIEL gitlab.com/nijoko.  
+RIVERA VERGARA, CAMILA FRANCISCA gitlab.com/Cami_727.  
 
 ## Introducción
 
@@ -37,9 +37,10 @@ Los datos que se le piden al usuario son los siguientes:
 - Fuerza de roce == fr = masa*g*cos(θ)*μ
 
 ##### Casos analizados completamente con respecto al programa:
-[CamScanner_10-17-2021_18.58.pdf](/uploads/4adf675061109861c3c6ab5cfbe0a354/CamScanner_10-17-2021_18.58.pdf)
-[CamScanner_10-17-2021_19.53_1_.pdf](/uploads/44ce3a98ce4333ddd7c7c7c1d9634b92/CamScanner_10-17-2021_19.53_1_.pdf)
-[CamScanner_10-17-2021_20.47.pdf](/uploads/3139722001c6d46a8c8824e8444e7958/CamScanner_10-17-2021_20.47.pdf)
+
+- Sistemas simples de sólidos rígidos-http://laplace.us.es/wiki/index.php/Sistemas_simples_de_s%C3%B3lidos_r%C3%ADgidos  
+- Vuelco en un plano inclinado-http://laplace.us.es/wiki/index.php/Vuelco_en_un_plano_inclinado  
+- Fuerza de rozamiento (GIE)-http://laplace.us.es/wiki/index.php/Fuerzas_de_rozamiento_(GIE)#Rozamiento_est.C3.A1tico  
 
 ## Diagrama de componentes:
 
@@ -57,7 +58,7 @@ Entorno de trabajo en qt 5.15.12.
 El programa se encuentra disponible en plataformas que permitan la visualizacion de codigos creados atraves de Qt Creator,
 ademas de poseer un compilador compatible con el lenguaje de programacion C++ (MinGW, Cygwin, Bash, etc.) , y también debe incluir los respectivos modulos de Qt(QtCharts,QtCore y QtWidgets) y las librerias del programa (iostream y cmath).
 
-## ¿Como compilar?
+## Instrucciones de compilación y lanzamiento
 
 Por medio de QtCreator abrir el directorio del codigo como proyecto.  
 Seleccionar la opcion RUN o control+R la cual compilara y ejecutara el programa desde la consola.
@@ -65,12 +66,3 @@ Seleccionar la opcion RUN o control+R la cual compilara y ejecutara el programa 
 ## Conclusión
 
 A modo de conclusión se puede decir que se lograron los objetivos a cabalidad, se logró añadir la interfaz gráfica con éxito y se integraron las clases necesarias en el código fuente. De esta manera podemos decir que nuestro proyecto se ha completado y está listo para una futura comercialización en el mercado.
-
-## Referencias Bibliográficas
-
-- Sistemas simples de sólidos rígidos-http://laplace.us.es/wiki/index.php/Sistemas_simples_de_s%C3%B3lidos_r%C3%ADgidos  
-- Vuelco en un plano inclinado-http://laplace.us.es/wiki/index.php/Vuelco_en_un_plano_inclinado  
-- Fuerza de rozamiento (GIE)-http://laplace.us.es/wiki/index.php/Fuerzas_de_rozamiento_(GIE)#Rozamiento_est.C3.A1tico  
-- ¿Qué son los planos inclinados?-https://es.khanacademy.org/science/physics/forces-newtons-laws/inclined-planes-friction/a/what-are-inclines  
-
-
