@@ -1,0 +1,32 @@
+Resgistro de cambios y nuevas funcionalidades
+9/10/2021 : Versión 1.0
+9/10/2021 : comienzo del código, creando algunas funciones y la función principal(int main) del código  
+13/10/2021 : Se comenzó a agregar el primer caso para probar el código, detectando errores y solucionandolos  
+14/10/2021 : Se añadieron más elementos al código, varios if para explicar las condiciones de volcamiento y deslizamiento  
+15/10/2021 : Se analizó problemas de la altura y se corrigieron problemas en el caso 3  
+16/10/2021 : Se contemplan nuevas variables en el problema físico y se añaden a los casos respectivos, se crean if respectivos para el control de desiciones.
+16/10/2021 : Se crea un typedef struct para todos los datos a utilizar y que se implementan en cada condicional para cada análisis del flujo.
+17/10/2021 : Se contemplan nuevos errores para el caso 3, y se ajustan las ecuaciones y fórmulas a las nuevas variables involucradas anteriormente.
+17/10/2021 : Se documenta las funciones y se agregan comentarios al código para una mejor comprensión en las desiciones de los flujos.
+
+01/12/2021 : Versión 2.0
+01/12/2021 : Comienzo del código en QT Creator...
+02/12/2021 : Para una salida gráfica correspondiente a la entrega del Hito 2, se trabaja en relacionar los modelos con funciones para graficarlos.
+03/12/2021 : Se parametriza parcialmente el código para que el usuario trabaje con variables para un entorno real.
+03/12/2021 : Se crean 3 funciones correspondientes a los modelos estudiados.
+04/12/2021 : Se crea la función puntos funciones() que genera coordenadas que se usan para moldear una salida grafica
+04/12/2021 : Se hace uso de QLineSeries y Qchart para generar una salida gráfica.
+05/12/2021 : Se comenta el codigo y se agregan nuevos elementos en la parte de graficar.
+05/12/2021 : Se agrega una nueva serie correspondiente al h(altura de la fuerza) ingresado para indicar en el gráfico la fuerza necesaria para ese punto.
+
+21/12/2021 : Versión Final
+21/12/2021 : Agregar interfaz para las distintas variables. 
+22/12/2021 : Se bosqueja una interfaz gráfica de manera visual en QT -> MainWindow.ui
+22/12/2021 : Se configuran los distintos items de la interfaz a partir de sus respectivas clases en MainWindow.cpp
+23/12/2021 : Se configuran las funciones que analizan la problemática del proyecto para generar una salida en la interfaz gráfica 
+23/12/2021 : Se crea una clase la cual genera el Gráfico y lo retorna como un Qchart* chart;
+23/12/2021 : Se crea una clase que lanza los distintos resultados del análisis en las funciones del main.cpp
+25/12/2021 : Se crean distintas clases de on_button_clicked(), los cuales controlan y parametrizan cada variable, para ayudar a los inputs del usuario.
+26/12/2021 : Se crea una clase la cual se encarga de limpiar el layout del Gráfico creado.
+
+
