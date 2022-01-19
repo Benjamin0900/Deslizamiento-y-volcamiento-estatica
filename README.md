@@ -42,16 +42,6 @@ Los datos que se le piden al usuario son los siguientes:
 - Vuelco en un plano inclinado-http://laplace.us.es/wiki/index.php/Vuelco_en_un_plano_inclinado  
 - Fuerza de rozamiento (GIE)-http://laplace.us.es/wiki/index.php/Fuerzas_de_rozamiento_(GIE)#Rozamiento_est.C3.A1tico  
 
-## Diagrama de componentes:
-
-
-![imagen_final](/uploads/635633075dd01a392774cd7888322800/imagen_final.jpg)
-![Untitled__1_](/uploads/44b3dafb1ac124156a0389d152b1017b/Untitled__1_.jpg)
-![Untitled__3_](/uploads/58bd8d0c0f47ac653b9ef57b339dfc11/Untitled__3_.jpg)
-![Untitled__4_](/uploads/e7d7987ff519547ce7c6e07fb665c9a5/Untitled__4_.jpg)
-
-
-
 ## Requisitos de compilación o plataforma :
 
 Entorno de trabajo en qt 5.15.12.  
